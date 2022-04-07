@@ -1,0 +1,7 @@
+module.exports = {
+    // 1. Paypal CLIENT ID
+    PAYPAL_CLIENTID: process.env.PAYPAL_CLIENTID || 'AaSfoER0ZrM2Yw0accsQO6vA-Vy3aD6U0zpSZD1WKzNFToeDv0SFP2mNFB2XYjlTWNmT62K5BLwJJhr2',
+    
+    // 2. PAYPAL Secret ID
+    PAYPAL_SECRET: process.env.PAYPAL_SECRET  || 'EAewNnGKt9OylC-qJ247f-Na8VDcA8QHGq2e8y9JGpcpnslFNffT0SoZHY5Z3LSUD0DHWt8BVUmCP1q6'
+  };
